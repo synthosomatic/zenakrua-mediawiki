@@ -1,0 +1,29 @@
+Notice: Undefined property: stdClass::$body in C:\inetpub\zenakrua\extensions\LocalS3Repo\S3.php on line 1342
+
+Warning: S3::getObject({www.zenakrua.com}, {images/5/57/1190761_profile.png}): [AccessDenied] Access Denied in C:\inetpub\zenakrua\extensions\LocalS3Repo\S3.php on line 429
+
+Warning: S3::getObjectInfo(www.zenakrua.com, images/thumb/5/57/1190761_profile.png/367px-1190761_profile.png): [403] Unexpected HTTP status in C:\inetpub\zenakrua\extensions\LocalS3Repo\S3.php on line 451
+
+Notice: Undefined property: stdClass::$body in C:\inetpub\zenakrua\extensions\LocalS3Repo\S3.php on line 1342
+
+Warning: S3::getObject({www.zenakrua.com}, {images/5/57/1190761_profile.png}): [AccessDenied] Access Denied in C:\inetpub\zenakrua\extensions\LocalS3Repo\S3.php on line 429
+
+Warning: S3::getObjectInfo(www.zenakrua.com, images/thumb/5/57/1190761_profile.png/367px-1190761_profile.png): [403] Unexpected HTTP status in C:\inetpub\zenakrua\extensions\LocalS3Repo\S3.php on line 451
+
+Notice: Undefined property: stdClass::$body in C:\inetpub\zenakrua\extensions\LocalS3Repo\S3.php on line 1342
+
+Warning: S3::getObject({www.zenakrua.com}, {images/5/57/1190761_profile.png}): [AccessDenied] Access Denied in C:\inetpub\zenakrua\extensions\LocalS3Repo\S3.php on line 429
+
+Notice: Undefined property: stdClass::$body in C:\inetpub\zenakrua\extensions\LocalS3Repo\S3.php on line 1342
+
+Warning: S3::getObject({www.zenakrua.com}, {images/5/57/1190761_profile.png}): [AccessDenied] Access Denied in C:\inetpub\zenakrua\extensions\LocalS3Repo\S3.php on line 429
+
+Warning: imagecreatefrompng(): 'C:\Windows\Temp\s3tC74.tmp' is not a valid PNG file in C:\inetpub\zenakrua\includes\media\Bitmap.php on line 443
+
+Warning: imagesx() expects parameter 1 to be resource, boolean given in C:\inetpub\zenakrua\includes\media\Bitmap.php on line 466
+
+Warning: imagesy() expects parameter 1 to be resource, boolean given in C:\inetpub\zenakrua\includes\media\Bitmap.php on line 466
+
+Warning: imagecopyresampled() expects parameter 2 to be resource, boolean given in C:\inetpub\zenakrua\includes\media\Bitmap.php on line 466
+
+Warning: imagedestroy() expects parameter 1 to be resource, boolean given in C:\inetpub\zenakrua\includes\media\Bitmap.php on line 486
